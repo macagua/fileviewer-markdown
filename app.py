@@ -18,9 +18,7 @@ st.logo(
     icon_image=None
 )
 
-
-
-st.title("Functionize File Viewer")
+st.title("File Viewer")
 
 # Initialize MarkItDown without the enable_plugins parameter
 md = MarkItDown()
