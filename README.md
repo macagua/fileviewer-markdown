@@ -59,9 +59,11 @@ streamlit run app.py
 
 Access the application in a browser (default address: http://localhost:8501).
 
-## It's look like this
+## Screenshots
 
-![image](https://dev.gobonum.com/BlueBonnet/functionizeapp-fileviewer/main/docs/screenshot.png)
+It's look like the following screenshot:
+
+![A screenshot!](/docs/screenshot.png "Screenshot")
 
 ## Instructions for use
 
