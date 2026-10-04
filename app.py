@@ -2,11 +2,11 @@ import streamlit as st
 import os
 from markitdown import MarkItDown
 
-logo = "static/img/functionizeapp_logo.svg"
+logo = "static/img/markdown-mark-logo.svg"
 favicon = "static/img/favicon.ico"
 
 st.set_page_config(
-    page_title="Functionize File Viewer",
+    page_title="Markdown File Viewer",
     page_icon = favicon,
     layout="wide"
 )
@@ -14,7 +14,7 @@ st.set_page_config(
 st.logo(
     logo,
     size="large",
-    link="https://www.functionizeapp.com/tools/fileviewer",
+    link="https://github.com/macagua/fileviewer-markdown",
     icon_image=None
 )
 

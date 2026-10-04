@@ -1,7 +1,7 @@
-# functionizeapp-fileviewer
+# Markdown File Viewer
 
-File viewer tool from functionizeapp.com, it's a web interface tool
-that provides convenient file to Markdown functionality.
+File viewer tool with a web interface that provides
+convenient file to Markdown functionality.
 
 ## Functional Features
 
@@ -39,7 +39,7 @@ that provides convenient file to Markdown functionality.
 
 1. Cloning projects to local:
 ```bash
-git clone https://dev.gobonum.com/BlueBonnet/functionizeapp-fileviewer.git && cd functionizeapp-fileviewer
+git clone https://github.com/macagua/fileviewer-markdown.git && cd fileviewer-markdown
 ```
 
 2. Create and activate a virtual environment:
@@ -76,7 +76,7 @@ It's look like the following screenshot:
 ## Project structure
 
 ```
-functionizeapp-fileviewer/
+fileviewer-markdown/
 ├── app.py            # The main application
 ├── requirements.txt  # Project dependencies
 └── README.md         # Project documentation
@@ -91,7 +91,7 @@ functionizeapp-fileviewer/
 
 ## License
 
-This project is open source under the MIT license.
+This project is open source under the GPL v2 license.
 
 ## Acknowledgments
 
