@@ -1,7 +1,7 @@
 # Markdown File Viewer
 
-File viewer tool with a web interface that provides
-convenient file to Markdown functionality.
+It's a file viewer tool with a web interface that
+provides convenient file to Markdown functionality.
 
 ## Functional Features
 
